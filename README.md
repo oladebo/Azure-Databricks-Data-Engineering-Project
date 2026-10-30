@@ -48,12 +48,12 @@ The pipeline ensures data consistency, quality, governance, and accessibility, e
 
 
 ### Architecture Components
-------------------------------
-|Component|Technology|Purpose|
-------------------------------
+-----------------------------------------------------------
+|Component   |Technology                          |Purpose|
+-----------------------------------------------------------
 |Data Sources|SQL Server, REST API, World Market |Source data ingestion|
 
-|Relational Storage|Azure SQL Database|Centralized relational data storage|
+|RelationalStorage|Azure SQL Database|Centralized relational data storage|
 
 |Resource Management|Azure Resource Group|Organizing Azure resources| 
 

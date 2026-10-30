@@ -82,6 +82,8 @@ The pipeline ensures data consistency, quality, governance, and accessibility, e
 
 
 
+| Component | Teechnology | Purpose |
+|-----------|-------------|---------|
 
 
 

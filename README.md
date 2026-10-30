@@ -85,6 +85,9 @@ The pipeline ensures data consistency, quality, governance, and accessibility, e
 | Component | Teechnology | Purpose |
 |-----------|-------------|---------|
 | Data Source | SQL Server, REST API, World Market | Source data ingestion |
+| Relational Storage | Azure SQL Database | Centralize relational data storage |
+| Resource Management | Azure Resource Group | Organizing Azure resource |
+| Data Orchestration | Azure Data Factory | Pipeline Orchestration and automation |
 
 
 

@@ -41,9 +41,6 @@ This solution implements an automated Azure data engineering pipeline that conso
 The pipeline ensures data consistency, quality, governance, and accessibility, enabling business teams to leverage trusted datasets for reporting, analytics, and strategic decisions.
 
 ### Solution Architecture
-
-
-
 - The architecture follows an end-to-end data ingestion, storage, transformation, and governance workflow.
 
 
@@ -61,14 +58,6 @@ The pipeline ensures data consistency, quality, governance, and accessibility, e
 | Data Processing | Azure Databricks | Data transformation and processing |
 | Data Governance | Unity Catalog | Central Governance and access control |
 | Security | Azure RBAC/ IAM | Identity and permission mangement |
-
-
-
-
-
-
-
-
 
 
 
@@ -93,11 +82,11 @@ The pipeline ensures data consistency, quality, governance, and accessibility, e
 
 3. Data Storage
 
-Store ingested datasets in Azure Data Lake Storage Gen2.
+- Store ingested datasets in Azure Data Lake Storage Gen2.
 
-Maintain a centralized and scalable data storage environment.
+- Maintain a centralized and scalable data storage environment.
 
-Organize datasets for downstream processing.
+- Organize datasets for downstream processing.
 
 4. Data Transformation
 

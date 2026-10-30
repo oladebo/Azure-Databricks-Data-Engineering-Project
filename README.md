@@ -48,24 +48,24 @@ The pipeline ensures data consistency, quality, governance, and accessibility, e
 
 
 ### Architecture Components
------------------------------------------------------------
-|Component   |Technology                          |Purpose|
------------------------------------------------------------
-|Data Sources|SQL Server, REST API, World Market |Source data ingestion|
 
-|RelationalStorage|Azure SQL Database|Centralized relational data storage|
+|Component          |Technology                           |Purpose|
+-------------------------------------------------------------------
+|Data Sources       |SQL Server, REST API, World Market   |Source data ingestion|
 
-|Resource Management|Azure Resource Group|Organizing Azure resources| 
+|RelationalStorage  |Azure SQL Database                   |Centralized relational data storage|
 
-|Data Orchestration|Azure Data Factory|Pipeline orchestration and automation|
+|Resource Management|Azure Resource Group                 |Organizing Azure resources| 
+  
+|Data Orchestration |Azure Data Factory                   |Pipeline orchestration and automation|
 
-|Data Storage|Azure Data Lake Storage Gen2|Scalable cloud data storage|
+|Data Storage       |Azure Data Lake Storage Gen2         |Scalable cloud data storage|
 
-|Data Processing|Azure Databricks|Data transformation and processing|
+|Data Processing    |Azure Databricks                     |Data transformation and processing|
 
-|Data Governance|Unity Catalog|Centralized governance and access control
+|Data Governance    |Unity Catalog                        |Centralized governance and access control|
 
-|Security|Azure RBAC / IAM|Identity and permission managemen|
+|Security           |Azure RBAC / IAM                     |Identity and permission managemen|
 
 
 

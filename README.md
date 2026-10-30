@@ -88,6 +88,10 @@ The pipeline ensures data consistency, quality, governance, and accessibility, e
 | Relational Storage | Azure SQL Database | Centralize relational data storage |
 | Resource Management | Azure Resource Group | Organizing Azure resource |
 | Data Orchestration | Azure Data Factory | Pipeline Orchestration and automation |
+| Data Storage | Azure Data Lake Storage Gen2 | Scalable cloud data storage |
+| Data Processing | Azure Databricks | Data transformation and processing |
+| Data Governance | Unity Catalog | Central Governance and access control |
+| Security | Azure RBAC/ IAM | Identity and permission mangement |
 
 
 

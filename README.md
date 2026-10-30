@@ -44,6 +44,9 @@ The pipeline ensures data consistency, quality, governance, and accessibility, e
 - The architecture follows an end-to-end data ingestion, storage, transformation, and governance workflow.
 
 
+
+![image alt](https://github.com/oladebo/Azure-Databricks-Data-Engineering-Project/blob/1817aa70ae9c80bcf97845b65291d6bcb9c8b273/Screen%20Shot%202026-10-23%20at%2019.47.17.png)
+
 #### Architecture Components
 
   
